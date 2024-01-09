@@ -20,8 +20,8 @@ We welcome feature requests for additional languages! Feel free to suggest the l
 ## Installation
 
 ```bash
-  git clone https://github.com/ASACHIT/OCR-django-app.git
-  cd OCR-django-app
+  git clone https://github.com/CodeWizardl/Django-Extract-OCR.git
+  cd Django-Extract-OCR
   pip install -r requirements
   python manage.py runserver 
   # open localhost:8000  url in browser 
