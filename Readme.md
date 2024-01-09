@@ -1,25 +1,21 @@
-
 # Text Extractor/ OCR in Django
 
-
-A Django webapp for scanning texts from images, simply you have to upload image and it will provide you with texts found
-
-
+A Django web application designed for scanning text from images. Simply upload an image, and the web app will promptly provide you with the extracted texts.
 
 ## Home page
 
-![App Screenshot](https://cdn.discordapp.com/attachments/884460118715019274/945247468747124736/unknown.png)
+![App Screenshot](https://github.com/CodeWizardl/Django-Extract-OCR/assets/142290678/6969d299-4ad4-49e0-afee-00ee493b27b6)
 
 ## Result page
 
-![App Screenshot](https://cdn.discordapp.com/attachments/884460118715019274/945247765259247616/unknown.png)
+![App Screenshot](https://github.com/CodeWizardl/Django-Extract-OCR/assets/142290678/bb07a212-7644-4dda-b6d6-7581c51c9a94)
 
-" Currently, our OCR project supports the following commonly used languages:
+Currently, our OCR project supports the following commonly used languages:
 - English
 - Nepali
 - Hindi
 
-We welcome feature requests for additional languages! Feel free to suggest the languages you'd like to see included. "
+We welcome feature requests for additional languages! Feel free to suggest the languages you'd like to see included.
 
 ## Installation
 
@@ -51,12 +47,5 @@ Note: You have to install [tesseract module](https://github.com/UB-Mannheim/tess
 - Enjoy a user-friendly and clean UI for a seamless experience.
 
 ## Conclusion
-In conclusion, our Django web application simplifies the process of extracting text from images. With just a straightforward image upload, users can effortlessly obtain the text content detected within the image. The entire process is user-friendly, eliminating the need for intricate steps. Experience the convenience of our web app, where image scanning for text retrieval is made quick and hassle-free.
-
-
-
-
-
-
-
+- In conclusion, our Django web application simplifies the process of extracting text from images. With just a straightforward image upload, users can effortlessly obtain the text content detected within the image. The entire process is user-friendly, eliminating the need for intricate steps. Experience the convenience of our web app, where image scanning for text retrieval is made quick and hassle-free.
 
